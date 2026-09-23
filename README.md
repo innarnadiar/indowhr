@@ -7,7 +7,7 @@ Posisi Indonesia stagnan relatif dibanding negara ASEAN lain dan negara ber-GDP 
 Ada gap antara kebahagiaan subjektif dan kondisi ekonomi riil: skor subjektif naik, sementara kelas menengah menyusut 9,5 juta orang (2019–2024) dan skor kesejahteraan finansial jadi aspek terlemah dalam Indeks Kualitas Hidup Indonesia (ISS, 2025).
 
 # Sumber Data
-World Happiness Report (WHR), data.worldhappiness.report
-Badan Pusat Statistik (BPS), 2024
-Indonesian Social Survey (ISS), 2025
-Databoks/Katadata
+- World Happiness Report (WHR), data.worldhappiness.report
+- Badan Pusat Statistik (BPS), 2024
+- Indonesian Social Survey (ISS), 2025
+- Databoks/Katadata
